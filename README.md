@@ -1,3 +1,4 @@
+![logo](https://github.com/AlexMajumder/alexmajumder/blob/main/cover.png)
 # I'm Alex👋
 
 <img alt = "my status" align = "left" width ="47%" src = "https://github-readme-stats.vercel.app/api?username=alexmajumder"/>
