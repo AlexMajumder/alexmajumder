@@ -1,5 +1,5 @@
 ![logo](https://appdeveloperalex.com/image/cover.png)
-# I'm Alex
+# I'm Alex... 
 
 <img alt = "my status" align = "left" width ="47%" src = "https://github-readme-stats.vercel.app/api?username=alexmajumder"/>
 
