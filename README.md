@@ -1,6 +1,6 @@
 ![logo](https://appdeveloperalex.com/image/cover.png)
 
-# 👋 Hi, I'm Alex Majumder !  
+# 👋 Hi.., I'm Alex Majumder !  
 
 ## 🚀 FLUTTER DEVELOPER | MOBILE APP EXPERT  
 
